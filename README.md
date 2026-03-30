@@ -1,4 +1,6 @@
-<table>
+<p align="center"><b>Tab. A.</b> CADF filtering accuracy on CS at round 50 under different noise rates.</p>
+
+<table align="center">
   <tr>
     <th>CS</th>
     <th colspan="10">Client Index</th>
