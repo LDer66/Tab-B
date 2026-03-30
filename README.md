@@ -27,6 +27,6 @@
   </tr>
 </table>
 
-![Figure A](fedrgl_fedavg.png)
+<img src="fedrgl_fedavg.png" alt="Figure A" width="75%">
 
-<p align="center"><b>Figure A.</b> Average losses of clean and noisy nodes during training on Cora under 0.5 noise.</p>
+**Figure A.** Average losses of clean and noisy nodes during training on Cora under 0.5 noise.
