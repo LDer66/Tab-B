@@ -1,11 +1,29 @@
-|CS|Client Index||||||||||
-|-|-|-|-|-|-|-|-|-|-|-|
-|Noise rate|1|2|3|4|5|6|7|8|9|10|
-|0.1|0.927|0.936|0.916|0.903|0.916|0.925|0.933|0.916|0.907|0.898|
-|0.3|0.924|0.905|0.917|0.886|0.898|0.912|0.917|0.893|0.902|0.893|
-|0.5|0.912|0.897|0.905|0.883|0.894|0.904|0.911|0.886|0.877|0.895|
-
-<p align="center"><b>Tab. A.</b> CADF filtering accuracy on CS at round 50 under different noise rates.</p>
+<table>
+  <tr>
+    <th>CS</th>
+    <th colspan="10">Client Index</th>
+  </tr>
+  <tr>
+    <th>Noise rate</th>
+    <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th>
+    <th>6</th><th>7</th><th>8</th><th>9</th><th>10</th>
+  </tr>
+  <tr>
+    <td>0.1</td>
+    <td>0.927</td><td>0.936</td><td>0.916</td><td>0.903</td><td>0.916</td>
+    <td>0.925</td><td>0.933</td><td>0.916</td><td>0.907</td><td>0.898</td>
+  </tr>
+  <tr>
+    <td>0.3</td>
+    <td>0.924</td><td>0.905</td><td>0.917</td><td>0.886</td><td>0.898</td>
+    <td>0.912</td><td>0.917</td><td>0.893</td><td>0.902</td><td>0.893</td>
+  </tr>
+  <tr>
+    <td>0.5</td>
+    <td>0.912</td><td>0.897</td><td>0.905</td><td>0.883</td><td>0.894</td>
+    <td>0.904</td><td>0.911</td><td>0.886</td><td>0.877</td><td>0.895</td>
+  </tr>
+</table>
 
 ![Figure A](fedrgl_fedavg.png)
 
